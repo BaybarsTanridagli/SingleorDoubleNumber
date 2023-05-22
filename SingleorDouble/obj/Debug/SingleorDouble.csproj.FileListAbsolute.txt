@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\SingleorDouble\bin\Debug\SingleorDouble.exe.config
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\SingleorDouble\bin\Debug\SingleorDouble.exe
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\SingleorDouble\bin\Debug\SingleorDouble.pdb
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\SingleorDouble\obj\Debug\SingleorDouble.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\SingleorDouble\obj\Debug\SingleorDouble.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\SingleorDouble\obj\Debug\SingleorDouble.Form1.resources
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\SingleorDouble\obj\Debug\SingleorDouble.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\SingleorDouble\obj\Debug\SingleorDouble.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\SingleorDouble\obj\Debug\SingleorDouble.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\SingleorDouble\obj\Debug\SingleorDouble.exe
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\SingleorDouble\obj\Debug\SingleorDouble.pdb
